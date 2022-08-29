@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        
+        "lib",
+        "lib\\DuckCall",
+        "lib\\DuckSimulator",
+        "src",
+        "lib\\MallardDuck",
+        "lib\\Quackable",
+        "lib\\RedheadDuck",
+        "lib\\RubberDuck",
+    ],
+    "java.project.outputPath": "bin",
+}
